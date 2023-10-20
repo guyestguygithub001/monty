@@ -2,7 +2,7 @@
 stack_t *head = NULL;
 
 /**
- * main - point of entry..
+ * main - entry point..
  * @argc: args count..
  * @argv: list of args..
  * Return: always 0
